@@ -13,6 +13,14 @@ Prevent miui from tracking your privacy.
 
 ---
 
+### 使用方法 / Way to use
+
+- 安装后开启作用域，重启手机。
+
+安装一个apk，lsposed日志里提示执行拦截为成功！
+
+---
+
 ### 第三方开源引用 / Third-party open source references
 
 ##### GNU General Public License v3.0
