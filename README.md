@@ -10,6 +10,7 @@ Prevent miui from tracking your privacy.
 ### 已有功能 / Available feature
 
 - 阻止com.miui.guardprovider的跟踪行为
+- 欺骗com.miui.analytics为无网络状态
 
 ---
 
